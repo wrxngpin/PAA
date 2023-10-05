@@ -1,0 +1,2 @@
+O experimento pode ser executado na IDE Pycharm, onde foi realizado, ou também na IDE online de link www.online-python.com
+O experimento foi realizado colocando os valores dos vetores no vetor valores e realizando a medição do tempo de ordenação(execução) de um dado algoritmo(selection ou merge).
